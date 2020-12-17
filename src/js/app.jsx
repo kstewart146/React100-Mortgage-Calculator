@@ -79,7 +79,7 @@ export default class App extends React.Component {
                 className="btn btn-primary"
                 id="submit"
                 name="submit">
-              Calculate
+              calculate
               </button>
             </div>
           </div>
